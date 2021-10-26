@@ -1,6 +1,6 @@
 {
-  "short_name": "Hung Ton",
-  "name": "Hung Ton's App",
+  "short_name": "React App",
+  "name": "React App using PWA",
   "description": "Hung Ton Build This App",
   "icons": [
     {
